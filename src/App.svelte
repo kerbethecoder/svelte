@@ -19,7 +19,7 @@
       <img src={tailwindcssSrc} class="logo tailwind" alt="Tailwind CSS Logo" />
     </a>
   </div>
-  <h1 class="text-5xl font-bold my-9">Vite + Svelte + TailwindCSS</h1>
+  <h1 class="text-5xl font-bold my-9">Vite + Svelte + Tailwind CSS</h1>
 
   <div class="card p-8">
     <Counter />
