@@ -96,7 +96,7 @@ Deploying to github pages is totally up to you, be it through **[GitHub Actions]
 > - Take note of the specific configurations for your project before deploying it, otherwise, it won't work properly on production. Refer to the documentations for [Svelte](https://svelte.dev/docs/introduction).
 > - Also take note that [GitHub Pages](https://pages.github.com/) have limitations, it's free, yes, but it has a limit.
 
-### ❗ via package without the use of Jekyll SSG ❗
+### ❗ via package ❗
 
 **1. Install `gh-pages` package.**
 
