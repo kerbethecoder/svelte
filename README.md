@@ -1,6 +1,6 @@
 ![image](public/snap.png)
 
-<!-- badges -->
+![Static Badge](https://img.shields.io/badge/svelte-v4%2e2%2e18-fb8400) ![Static Badge](https://img.shields.io/badge/tailwindcss-v3%2e4%2e7-38bdf8)
 
 "[Svelte](https://svelte.dev/) is a tool for building web applications. Like other user interface frameworks, it allows you to build your app _declaratively_ out of components that combine markup, styles, and behaviours."
 
