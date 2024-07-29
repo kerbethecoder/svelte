@@ -34,7 +34,7 @@
     >, the official Svelte app framework powered by Vite!
   </p>
 
-  <p class="read-the-docs">Click on the Vite and Svelte logos to learn more</p>
+  <p class="read-the-docs">Click on the Vite, Svelte, and Tailwind logos to learn more</p>
 </main>
 
 <style>
