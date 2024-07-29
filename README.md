@@ -129,6 +129,10 @@ export default defineConfig({
 ```
 
 **4. Create and configure a new branch for `gh-pages`.**
+> [!IMPORTANT]
+>
+> Make sure that you have committed your changes before doing this. All untracked and staged files may be deleted.
+> 
 I like to do this manually. If there is some automated way, feel free to let me know by any means.
 
 ```bash
