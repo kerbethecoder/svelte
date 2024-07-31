@@ -114,7 +114,7 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [svelte()],
-  base: '/svelte',
+  base: '/svelte', // repo name
 });
 ```
 
@@ -132,7 +132,7 @@ export default defineConfig({
 > [!IMPORTANT]
 >
 > Make sure that you have committed your changes before doing this. All untracked and staged files may be deleted.
-> 
+
 I like to do this manually. If there is some automated way, feel free to let me know by any means.
 
 ```bash
