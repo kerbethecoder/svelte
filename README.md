@@ -4,7 +4,7 @@
 
 "[Svelte](https://svelte.dev/) is a tool for building web applications. Like other user interface frameworks, it allows you to build your app _declaratively_ out of components that combine markup, styles, and behaviours."
 
-This guide provides a first-hand experience on building a Svelte project using [Svelte](https://svelte.dev/) + [Tailwind CSS](https://tailwindcss.com/docs/guides/sveltekit) and deploying it on [GitHub Pages](https://pages.github.com/).
+This guide provides a first-hand experience on building a Svelte project using [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) + [Tailwind CSS](https://tailwindcss.com/docs/guides/sveltekit) and deploying it on [GitHub Pages](https://pages.github.com/).
 
 ## 🛠️ Installation
 
